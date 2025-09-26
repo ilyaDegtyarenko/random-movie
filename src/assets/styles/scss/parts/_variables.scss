@@ -1,0 +1,8 @@
+:root {
+    --color-primary: #474bd8;
+    --default-bg-color: #1a1a1a;
+    --default-bg: linear-gradient(135deg, var(--default-bg-color) 0%, #2d2d2d 100%);
+    --transition-default-duration: 160ms;
+    --transition-default-ease: cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-default-duration-with-ease: var(--transition-default-duration) var(--transition-default-ease);
+}
