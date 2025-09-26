@@ -1,0 +1,51 @@
+{
+  "loading": "Loading",
+  "movie": {
+    "noMovieMessage": "Let fate take the wheel... Have a spin!",
+    "filters": {
+      "genre": "GENRE",
+      "type": "TYPE",
+      "imdb": "IMDB",
+      "releaseYear": "YEAR",
+      "genres": {
+        "all": "All Genres",
+        "action": "Action",
+        "drama": "Drama",
+        "comedy": "Comedy",
+        "cartoon": "Animation"
+      },
+      "content": {
+        "movies": "Movies",
+        "tvShows": "TV Shows"
+      },
+      "ratings": {
+        "anyScore": "Any Score",
+        "8to10": "8.0 - 10.0",
+        "7to10": "7.0 - 10.0",
+        "6to10": "6.0 - 10.0",
+        "5to10": "5.0 - 10.0"
+      },
+      "years": {
+        "all": "All Years"
+      },
+      "spin": "SPIN"
+    },
+    "actions": {
+      "watchNow": "WATCH NOW",
+      "noTrailerAvailable": "NO TRAILER AVAILABLE",
+      "spinAgain": "SPIN AGAIN"
+    },
+    "modal": {
+      "closeModal": "Close modal",
+      "videoNotSupported": "Your browser does not support the video tag.",
+      "noTrailerMessage": "No trailer available for this movie",
+      "videoLoadError": "Unable to load trailer",
+      "tryAgain": "Try Again"
+    }
+  },
+  "footer": {
+    "description": "Discover amazing movies and find your next favorite film",
+    "quickLinks": "Quick Links",
+    "allRightsReserved": "All rights reserved"
+  }
+}
